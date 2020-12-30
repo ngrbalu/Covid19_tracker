@@ -1,0 +1,1 @@
+io.flutter.plugins.url_launcher_macos
